@@ -1,27 +1,12 @@
 {
   "name": "gunfs",
-  "version": "0.0.6",
-  "description": "A filesystem like api for GUNdb",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "gun": "^0.2019.1211"
-  },
+  "version": "0.0.0",
+  "description": "",
+  "main": "gunfs.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PeerSocial-io/gunfs.git"
-  },
-  "keywords": [
-    "gundb",
-    "filesystem-api"
-  ],
-  "author": "Bradley Matusiak",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PeerSocial-io/gunfs/issues"
-  },
-  "homepage": "https://github.com/PeerSocial-io/gunfs#readme"
+  "dependencies": {}
 }
